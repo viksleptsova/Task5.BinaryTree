@@ -196,8 +196,8 @@ bool BinaryTree::elemSearch(TreeElem *root, int x)
         elemSearch(root->left, x);
 //и так пока не будет найден искомый элемент
 }
+
 /*
 вика самая красивая девочка в мире
-        люблю ее
                 <3*/
 
